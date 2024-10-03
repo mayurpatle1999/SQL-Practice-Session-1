@@ -1,0 +1,6 @@
+"employeeid","firstname","lastname","email","phonenumber","hiredate","salary","departmentid","isactive","jobtitle"
+1,"Rahul","Shukla","rahulshukla@gmail.com","9623764902","2021-09-01","50000.00",10,True,"Sales_Manager"
+2,"Ashish","Shukla","ashishshukla@gmail.com","9623764901","2021-06-01","56000.00",15,True,"Operation_Manager"
+3,"Manoj","Shastri","manojshastri@gmail.com","9623764802","2021-10-10","59000.00",20,True,"Customer_Relationship_Manager"
+4,"Suraj","Shukla","surajshukla@gmail.com","9623725905","2021-09-01","50000.00",30,True,"Production_Manager"
+5,"Rahul","Ukey","rahulukey@gmail.com","8626764902","2021-01-01","120000.00",5,True,"Director"
